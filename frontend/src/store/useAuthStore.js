@@ -4,7 +4,7 @@ import toast from "react-hot-toast";
 import { io } from "socket.io-client";
 import axios from "axios";
 
-const BASE_URL = "https://chat-new.onrender.com";
+const BASE_URL = "https://chat-new.onrender.com/api";
 
 export const useAuthStore = create((set, get) => ({
   authUser: null,
