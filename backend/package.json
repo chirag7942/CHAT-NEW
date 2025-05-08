@@ -4,11 +4,8 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
-<<<<<<< HEAD
     "start": "node src/index.js"
-=======
-    "start" : "node src/index.js"
->>>>>>> a0d2cc0423c3262186b448663be6edd9467bda35
+
   },
   "author": "",
   "type": "module",
